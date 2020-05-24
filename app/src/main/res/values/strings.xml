@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AuthFirebase</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="nice_to_see_u_again">Nice To See U Again</string>
+    <string name="ulangi_password">Ulangi Password</string>
+</resources>
